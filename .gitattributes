@@ -1,0 +1,2 @@
+mod.ff filter=lfs diff=lfs merge=lfs -text
+mod.pak filter=lfs diff=lfs merge=lfs -text
