@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red) ![Bugs](https://img.shields.io/badge/bugs-0%20open-brightgreen) ![Build](https://img.shields.io/badge/Build-passing-brightgreen?logo=github) [![Members](https://img.shields.io/discord/750034898680807434?label=members&logo=discord&color=7289da)](https://discord.gg/CHZea8zvBG)
+![License](https://img.shields.io/badge/license-BSD--3-orange) ![Bugs](https://img.shields.io/badge/bugs-0%20open-brightgreen) ![Build](https://img.shields.io/badge/Build-passing-brightgreen?logo=github) [![Members](https://img.shields.io/discord/750034898680807434?label=members&logo=discord&color=7289da)](https://discord.gg/CHZea8zvBG)
 
 # H2 Chooch
 
@@ -39,4 +39,4 @@ h1-mod.exe -multiplayer -mod "mods\h2_chooch"
 
 ## License
 
-This project uses a custom "All Rights Reserved" license. See `LICENSE` for details.
+Copyright (c) 2026 Shadow. All Rights Reserved. See [LICENSE](LICENSE).
